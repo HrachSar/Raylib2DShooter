@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/main.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/main.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/main.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/main.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/game_object.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/game_object.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/game_object.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/game_object.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/player.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/player.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/player.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/player.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/resources/sprite_renderer.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/resources/sprite_renderer.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/resources/sprite_renderer.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/resources/sprite_renderer.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/game.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/game.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/game.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/game.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/grid.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/grid.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/grid.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/grid.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/resources/aStarPathFinder.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/resources/aStarPathFinder.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/resources/aStarPathFinder.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/resources/aStarPathFinder.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/core/enemy.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/core/enemy.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/core/enemy.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/core/enemy.cpp.o"
+},
+{
+  "directory": "/ssd/CPP_Project/raylib/2D_Shooter/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -fdiagnostics-color=always -I/usr/local/include -o CMakeFiles/2D_Shooter.dir/src/resources/stack.cpp.o -c /ssd/CPP_Project/raylib/2D_Shooter/src/resources/stack.cpp",
+  "file": "/ssd/CPP_Project/raylib/2D_Shooter/src/resources/stack.cpp",
+  "output": "CMakeFiles/2D_Shooter.dir/src/resources/stack.cpp.o"
+}
+]
